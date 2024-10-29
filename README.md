@@ -1,5 +1,6 @@
 # kodluyoruz_final_proje
 Kodluyoruz Mobil Atölye Final Projesi
-Kullanıcının bir hesabının bulunduğu, bu hesapta seyehat ettiği yerlerin fotoğraflarını
-paylaşabildiği, metin ekleyebildiği ve diğer kullanıcılar ile etkileşim halinde bulunduğu
-bir uygulama.
+Kullanıcıların günlük hayatlarında küçük sürdürülebilir adımlar atmalarını teşvik eden hedef
+kullanııclara günlük bildirim gönderme yönetmi ile kişilerin günlük hayatlarında basitleştirilmiş bir
+şekilde çevreyi korumak için yapabilecekleri görevler veremeyi amaçlayan ve uygulmalar
+sonucunda ödül sistemi olan mobil uygulama.
